@@ -1,2 +1,6 @@
 # Projetos-curso
-Projetos feitos com o intuito de aprendizagem.
+Projeto feito com intuito de aprendizagem feito apenas usando Html e Css.
+
+########################################################################
+
+Project made with learning purpose made only using Html and CSS.
